@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>#!/bin/bash
+
+sed -e '$a\'
+</string>
+	<key>input</key>
+	<string>document</string>
+	<key>name</key>
+	<string>Ensure Newline at EOF on Save</string>
+	<key>outputCaret</key>
+	<string>interpolateByLine</string>
+	<key>outputLocation</key>
+	<string>replaceDocument</string>
+	<key>semanticClass</key>
+	<string>callback.document.did-save</string>
+	<key>uuid</key>
+	<string>028A41DC-E40D-4A01-9BBE-D32C52E7EB2B</string>
+</dict>
+</plist>

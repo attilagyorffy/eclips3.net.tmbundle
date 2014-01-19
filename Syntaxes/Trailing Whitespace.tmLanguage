@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array/>
+	<key>injectionSelector</key>
+	<string>-source.diff</string>
+	<key>name</key>
+	<string>Trailing Whitespace</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>invalid.illegal.whitespace.trailing</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>((\S)([^\S\n\f\r]+)$)</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.invalid</string>
+	<key>uuid</key>
+	<string>0FE94BA0-B6BE-4BAC-8A15-785B65A745D6</string>
+</dict>
+</plist>
