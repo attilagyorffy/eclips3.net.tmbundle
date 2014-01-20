@@ -454,7 +454,7 @@
 			<key>name</key>
 			<string>HTML: Tag definition</string>
 			<key>scope</key>
-			<string>punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html</string>
+			<string>punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.terminator.statement.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
