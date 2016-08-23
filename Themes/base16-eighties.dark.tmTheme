@@ -4,10 +4,6 @@
 <dict>
 	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
-	<key>name</key>
-	<string>Base16 Eighties Dark</string>
-	<key>semanticClass</key>
-	<string>base16.eighties.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -23,6 +19,10 @@
 		<key>selectionForeground</key>
 		<string>#a09f93</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 Eighties Dark</string>
+	<key>semanticClass</key>
+	<string>theme.dark.base16.eighties</string>
 	<key>settings</key>
 	<array>
 		<dict>
