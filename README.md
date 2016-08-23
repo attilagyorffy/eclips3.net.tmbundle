@@ -8,7 +8,7 @@ This is a bundle that contains a set of customisations to TextMate.
 
 ```shell
 mkdir -p ~/Library/Application\ Support/Avian/Bundles
-git clone https://github.com/liquid/eclips3.net.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/eclips3.net.tmbundle
+git clone https://github.com/attilagyorffy/eclips3.net.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/eclips3.net.tmbundle
 ```
 
 ## Credits
