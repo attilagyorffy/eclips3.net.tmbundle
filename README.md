@@ -1,14 +1,14 @@
-## eclips3.net Bundle for Textmate
+## rewire bundle for Textmate
 
 This is a bundle that contains a set of customisations to TextMate.
 
-![Preview](https://raw.github.com/liquid/eclips3.tmbundle/master/preview.png)
+![Preview](https://raw.github.com/rewire/rewire.digital.tmbundle/master/preview.png)
 
 ## How to install
 
 ```shell
 mkdir -p ~/Library/Application\ Support/Avian/Bundles
-git clone https://github.com/attilagyorffy/eclips3.net.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/eclips3.net.tmbundle
+git clone https://github.com/rewire/rewire.digital.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/rewire/rewire.digital.tmbundle
 ```
 
 ## Credits
