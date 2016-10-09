@@ -8,7 +8,7 @@ This is a bundle that contains a set of customisations to TextMate.
 
 ```shell
 mkdir -p ~/Library/Application\ Support/Avian/Bundles
-git clone https://github.com/rewire/rewire.digital.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/rewire/rewire.digital.tmbundle
+git clone https://github.com/rewire/rewire.digital.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/rewire.digital.tmbundle
 ```
 
 ## Credits
